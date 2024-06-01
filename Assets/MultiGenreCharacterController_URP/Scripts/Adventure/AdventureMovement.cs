@@ -134,7 +134,18 @@ public class AdventureMovement : BaseMovement
                 isFalling = true;
                 playerAnimator.SetBool("Gliding", false);
                 glider.SetActive(false);
-            }
+            }          
+        }
+
+        if (adventureClimbing.IsClimbing() == true)
+        {
+            isGliding = false;
+            isInAir = false;
+            hasJumped = false;
+            jumpPressed = false;
+            isFalling = false;
+            playerAnimator.SetBool("Gliding", false);
+            glider.SetActive(false);
         }
     }
 
@@ -210,7 +221,7 @@ public class AdventureMovement : BaseMovement
         if (isGliding)
         {
             playerRigidbody.drag = glideDrag;
-            movementSpeed = glideSpeed;
+            movementSpeed = glideSpeed;           
         }
         else
         {
