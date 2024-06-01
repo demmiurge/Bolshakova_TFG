@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 34621673}
   - component: {fileID: 34621675}
   - component: {fileID: 34621674}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5239,7 +5239,7 @@ GameObject:
   - component: {fileID: 242906812}
   - component: {fileID: 242906814}
   - component: {fileID: 242906813}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10127,7 +10127,7 @@ GameObject:
   - component: {fileID: 261606857}
   - component: {fileID: 261606859}
   - component: {fileID: 261606858}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15015,7 +15015,7 @@ GameObject:
   - component: {fileID: 263648072}
   - component: {fileID: 263648074}
   - component: {fileID: 263648073}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19915,7 +19915,7 @@ GameObject:
   - component: {fileID: 630910699}
   - component: {fileID: 630910701}
   - component: {fileID: 630910700}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24803,7 +24803,7 @@ GameObject:
   - component: {fileID: 648176355}
   - component: {fileID: 648176357}
   - component: {fileID: 648176356}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29691,7 +29691,7 @@ GameObject:
   - component: {fileID: 654802095}
   - component: {fileID: 654802097}
   - component: {fileID: 654802096}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34579,7 +34579,7 @@ GameObject:
   - component: {fileID: 758014683}
   - component: {fileID: 758014685}
   - component: {fileID: 758014684}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39467,7 +39467,7 @@ GameObject:
   - component: {fileID: 761847416}
   - component: {fileID: 761847418}
   - component: {fileID: 761847417}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44461,7 +44461,7 @@ GameObject:
   - component: {fileID: 823539448}
   - component: {fileID: 823539450}
   - component: {fileID: 823539449}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49349,7 +49349,7 @@ GameObject:
   - component: {fileID: 861420784}
   - component: {fileID: 861420786}
   - component: {fileID: 861420785}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54237,7 +54237,7 @@ GameObject:
   - component: {fileID: 960290860}
   - component: {fileID: 960290862}
   - component: {fileID: 960290861}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59125,7 +59125,7 @@ GameObject:
   - component: {fileID: 973383717}
   - component: {fileID: 973383719}
   - component: {fileID: 973383718}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64013,7 +64013,7 @@ GameObject:
   - component: {fileID: 1039412049}
   - component: {fileID: 1039412051}
   - component: {fileID: 1039412050}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69019,7 +69019,7 @@ GameObject:
   - component: {fileID: 1170519486}
   - component: {fileID: 1170519488}
   - component: {fileID: 1170519487}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73907,7 +73907,7 @@ GameObject:
   - component: {fileID: 1245400618}
   - component: {fileID: 1245400620}
   - component: {fileID: 1245400619}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78795,7 +78795,7 @@ GameObject:
   - component: {fileID: 1337929828}
   - component: {fileID: 1337929830}
   - component: {fileID: 1337929829}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83683,7 +83683,7 @@ GameObject:
   - component: {fileID: 1427651355}
   - component: {fileID: 1427651357}
   - component: {fileID: 1427651356}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88571,7 +88571,7 @@ GameObject:
   - component: {fileID: 1472686844}
   - component: {fileID: 1472686846}
   - component: {fileID: 1472686845}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93459,7 +93459,7 @@ GameObject:
   - component: {fileID: 1617321468}
   - component: {fileID: 1617321470}
   - component: {fileID: 1617321469}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98421,7 +98421,7 @@ GameObject:
   - component: {fileID: 1692873004}
   - component: {fileID: 1692873006}
   - component: {fileID: 1692873005}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103311,7 +103311,7 @@ GameObject:
   - component: {fileID: 1750140971}
   - component: {fileID: 1750140970}
   - component: {fileID: 1750140969}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -103485,6 +103485,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5069885664904876992, guid: 6d6543931b0ab424690e6ca0174739a0,
+        type: 3}
+      propertyPath: validSurfacesLayer.m_Bits
+      value: 231
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -103507,7 +103512,7 @@ GameObject:
   - component: {fileID: 1859256508}
   - component: {fileID: 1859256510}
   - component: {fileID: 1859256509}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108395,7 +108400,7 @@ GameObject:
   - component: {fileID: 1860078695}
   - component: {fileID: 1860078697}
   - component: {fileID: 1860078696}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113283,7 +113288,7 @@ GameObject:
   - component: {fileID: 1860906439}
   - component: {fileID: 1860906441}
   - component: {fileID: 1860906440}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118171,7 +118176,7 @@ GameObject:
   - component: {fileID: 1902558306}
   - component: {fileID: 1902558308}
   - component: {fileID: 1902558307}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123059,7 +123064,7 @@ GameObject:
   - component: {fileID: 1907486136}
   - component: {fileID: 1907486138}
   - component: {fileID: 1907486137}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Death
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128152,7 +128157,7 @@ GameObject:
   - component: {fileID: 4233326412396186975}
   - component: {fileID: 8514003461239811446}
   - component: {fileID: 8514003461239811447}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -128277,7 +128282,7 @@ GameObject:
   - component: {fileID: 7882647714205072000}
   - component: {fileID: 8499686347731298280}
   - component: {fileID: 8499686347731298281}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -128436,7 +128441,7 @@ GameObject:
   - component: {fileID: 6725551971015813408}
   - component: {fileID: 8583203141544209767}
   - component: {fileID: 8583203141544209768}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -128456,7 +128461,7 @@ GameObject:
   - component: {fileID: 759143170090672946}
   - component: {fileID: 7668568820120671469}
   - component: {fileID: 7668568820120671470}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -128620,7 +128625,7 @@ GameObject:
   - component: {fileID: 1933733970645746252}
   - component: {fileID: 8477475722200764785}
   - component: {fileID: 8477475722200764786}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -129998,7 +130003,7 @@ GameObject:
   - component: {fileID: 279637934223596512}
   - component: {fileID: 2676741256127936088}
   - component: {fileID: 4874423725187164610}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -130034,7 +130039,7 @@ GameObject:
   - component: {fileID: 549080836745750937}
   - component: {fileID: 5425108761308896438}
   - component: {fileID: 6780688328703061224}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -130387,7 +130392,7 @@ GameObject:
   - component: {fileID: 8504711810286315828}
   - component: {fileID: 2865341906161854280}
   - component: {fileID: 8504711810286315829}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -131161,7 +131166,7 @@ GameObject:
   - component: {fileID: 4228445178194965174}
   - component: {fileID: 1879818823954186064}
   - component: {fileID: 8086084266358670156}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -131335,7 +131340,7 @@ GameObject:
   - component: {fileID: 5459786629710287783}
   - component: {fileID: 3702957596262371760}
   - component: {fileID: 8417521961654316232}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -131682,7 +131687,7 @@ GameObject:
   - component: {fileID: 7714912744808337336}
   - component: {fileID: 7522402541704794326}
   - component: {fileID: 8963079371876380583}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -131775,7 +131780,7 @@ GameObject:
   - component: {fileID: 8100729127601015397}
   - component: {fileID: 5308496628587371991}
   - component: {fileID: 9166946704612756329}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Dummie
   m_TagString: Floor
   m_Icon: {fileID: 0}
