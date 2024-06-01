@@ -82,7 +82,7 @@ public class PlatformerMovement : BaseMovement
 
     public override void OnJump(InputAction.CallbackContext context)
     {
-        if (IsTouchingTheGround())
+        if (IsTouchingTheGround() && crouching == false)
         {
             if (context.started)
             {

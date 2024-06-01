@@ -104,7 +104,7 @@ public class ShooterMovement : BaseMovement
     //Unity Event for jumping
     public override void OnJump(InputAction.CallbackContext context)
     {
-        if (IsTouchingTheGround())
+        if (IsTouchingTheGround() && crouching == false)
         {
             if (context.started)
             {

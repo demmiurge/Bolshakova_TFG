@@ -136,16 +136,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlatformerPrefab
       objectReference: {fileID: 0}
-    - target: {fileID: 3340711674647222369, guid: ddafe7ca72d633b4c8b3f028ccff29cc,
-        type: 3}
-      propertyPath: floorMask.m_Bits
-      value: 64
-      objectReference: {fileID: 0}
-    - target: {fileID: 8164878605511642412, guid: ddafe7ca72d633b4c8b3f028ccff29cc,
-        type: 3}
-      propertyPath: detectionLayerMask.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8491578508662133965, guid: ddafe7ca72d633b4c8b3f028ccff29cc,
         type: 3}
       propertyPath: m_LocalPosition.x
